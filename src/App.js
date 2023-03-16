@@ -5,23 +5,19 @@ import './App.css'
 
 const App = () => {
   return (
-   
-
-    
     <div className='App'>
      
     <div className='gradient_bg'>
       <Navbar/>
       <Header/>
-
-    </div>
-    <Brand />
-    <WhatGPT3 />
-    <Features />
-    <Possibility />
-    <CTA />
-    <Blogg />
-    <Footer />
+      </div>
+      <Brand />
+      <WhatGPT3 />
+      <Features />
+      <Possibility />
+      <CTA />
+      <Blogg />
+      <Footer />
       
     </div>
   )
